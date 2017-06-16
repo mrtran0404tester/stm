@@ -1,13 +1,14 @@
 {
   "fake": "0",
   "idadmod": {
-   "baner":"ca-app-pub-1667805177474426/2739359594",
-   "banerfull": "ca-app-pub-1667805177474426/4216092795"
+   "baner":"ca-app-pub-1667805177474426/4892136796",
+   "banerfull": "ca-app-pub-1667805177474426/7845603194"
   },
   "version": {
      "name": "1.0.0",
     "title":"Do you want to update the latest version?",
     "content": "-fixed bugs",
-    "link":"https://play.google.com/store/apps/details?id=stickmanfight.stickmanlegends.stickmangame"
+    "linkUpdate":"https://play.google.com/store/apps/details?id=stickmanfight.stickmanlegends.stickmangame",
+    "linkmoregame":"https://play.google.com/store/apps/details?id=stickmanfight.stickmanlegends.stickmangame"
   }
 }
