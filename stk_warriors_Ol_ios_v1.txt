@@ -1,0 +1,14 @@
+{
+  "fake": "0",
+  "idadmod": {
+   "baner":"ca-app-pub-1667805177474426/2744092392",
+   "banerfull": "ca-app-pub-1667805177474426/7174291996"
+  },
+  "version": {
+     "name": "1.0.0",
+    "title":"Do you want to update the latest version?",
+    "content": "-fixed bugs",
+    "linkUpdate":"https://itunes.apple.com/us/app/stickman-warriors-heroes/id1178276983?mt=8",
+    "linkmoregame":"https://play.google.com/store/apps/details?id=stickmanfight.stickmanlegends.stickmangame"
+  }
+}
