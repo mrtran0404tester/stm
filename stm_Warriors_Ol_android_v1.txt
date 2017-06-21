@@ -5,7 +5,7 @@
    "banerfull": "ca-app-pub-1667805177474426/7845603194"
   },
   "version": {
-     "name": "1.0.3",
+     "name": "1.0.2",
     "title":"Do you want to update the latest version?",
     "content": "-fixed bugs",
     "linkUpdate":"market://details?id=stickmanwarriors.stickmanWar.online",
