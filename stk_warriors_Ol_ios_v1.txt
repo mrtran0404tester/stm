@@ -9,6 +9,6 @@
     "title":"Do you want to update the latest version?",
     "content": "-fixed bugs",
     "linkUpdate":"https://itunes.apple.com/us/app/stickman-warriors-heroes/id1178276983?mt=8",
-    "linkmoregame":"https://play.google.com/store/apps/details?id=stickmanfight.stickmanlegends.stickmangame"
+    "linkmoregame":"https://itunes.apple.com/us/developer/le-van-trong/id1178276982"
   }
 }
