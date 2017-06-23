@@ -1,11 +1,11 @@
 {
-  "fake": "1",
+  "fake": "0",
   "idadmod": {
    "baner":"ca-app-pub-1667805177474426/4892136796",
    "banerfull": "ca-app-pub-1667805177474426/7845603194"
   },
   "version": {
-     "name": "1.0.2",
+     "name": "1.0.5",
     "title":"Do you want to update the latest version?",
     "content": "-fixed bugs",
     "linkUpdate":"market://details?id=stickmanwarriors.stickmanWar.online",
