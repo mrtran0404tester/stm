@@ -5,10 +5,10 @@
    "banerfull": "ca-app-pub-1667805177474426/7174291996"
   },
   "version": {
-     "name": "1.0.5",
+     "name": "1.0.4",
     "title":"Do you want to update the latest version?",
     "content": "-fixed bugs",
-    "linkUpdate":"https://itunes.apple.com/us/app/stickman-warriors-heroes/id1178276983?mt=8",
-    "linkmoregame":"https://itunes.apple.com/us/developer/le-van-trong/id1178276982"
+    "linkUpdate":"https://itunes.apple.com/us/app/stickman-gladiator-online-war-pic/id1249980981?mt=8",
+    "linkmoregame":"https://itunes.apple.com/us/developer/tien-tran/id1249980980"
   }
 }
