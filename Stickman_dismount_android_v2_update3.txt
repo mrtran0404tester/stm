@@ -8,6 +8,6 @@
      "name": "1.0.0",
     "title":"Do you want to update the latest version?",
     "content": "-fixed bugs",
-    "link":"https://play.google.com/store/apps/details?id=stickmanfight.stickmanlegends.stickmangame"
+    "link":"https://play.google.com/store/apps/details?id=jkg.dectruction.stickmandismount"
   }
 }
